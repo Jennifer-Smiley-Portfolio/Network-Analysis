@@ -1,0 +1,17 @@
+Scourge Thor 1
+Thor Loki 6
+Thor Dr_Strange 1
+Loki Dr_Strange 1
+Thor Odin 2
+Loki Odin 1
+Thor Hela 1
+Loki Hela 1
+Valkyrie Thor 4
+Scourge Hela 3
+Hulk Thor 4
+Hulk Valkyrie 3
+Loki Valkyrie 2
+Hulk Loki 1
+Valkyrie Korg 1
+Korg Thor 1
+Korg Loki 1

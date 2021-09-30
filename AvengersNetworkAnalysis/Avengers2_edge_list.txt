@@ -1,0 +1,15 @@
+BlackWidow Hulk 5
+BlackWidow Hawkeye 3
+CaptainAmerica IronMan 3
+IronMan Thor 2
+IronMan Hulk 3
+CaptainAmerica Falcon 1
+CaptainAmerica Hulk 1
+CaptainAmerica Thor 1
+NickFury IronMan 1
+Hawkeye ScarletWitch 1
+BlackWidow CaptainAmerica 1
+BlackWidow NickFury 1
+WarMachine IronMan 1
+Vision Thor 1
+CaptainAmerica Hawkeye 1
